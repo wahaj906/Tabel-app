@@ -1,5 +1,5 @@
 let form = document.querySelector("#taleGenrator");
-let input = document.querySelector("#tableNumber");
+let input = document.querySelector("#tableid");
 let result = document.querySelector("#result");
 
 form.addEventListener("submit", (event) => {
